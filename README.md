@@ -13,6 +13,4 @@ My name is Egor and I'm a backend developer
 Other
 
 [![codewars](https://www.codewars.com/users/wineday/badges/small)](https://www.codewars.com/users/wineday)
-[![LeetCode user wineday0](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fwineday0&logo=leetcode&logoColor=yellow)](https://leetcode.com/wineday0/)
-
-
+[![LeetCode user wineday0](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fwineday0&logo=leetcode&logoColor=yellow)](https://leetcode.com/wineday0/)
